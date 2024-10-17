@@ -1,7 +1,7 @@
 class Data_types{
 	public static void main(String[] args){
 		int age = 23;
-		double height = 5.7;
+		double height = 15.7;
 		char initial = 'K';
 		boolean student = true;
 		
